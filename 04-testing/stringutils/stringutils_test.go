@@ -3,7 +3,7 @@ package stringutils_test
 import (
 	"testing"
 
-	"github.com/jboursiquot/go-next-steps/04-testing/stringutils"
+	"github.com/bhargrah/go-next-steps/04-testing/stringutils"
 )
 
 func TestUpper(t *testing.T) {

@@ -1,3 +1,5 @@
+github.com/bhargrah/go_stringutils_lib v0.0.0-20200719053635-ef231eaccd43 h1:PNmxMM4P87YIYY4VzlGYiHVM/md2LOb3O61HgPrhPkU=
+github.com/bhargrah/go_stringutils_lib v0.0.0-20200719053635-ef231eaccd43/go.mod h1:IAmb7ZwxYMqTlueJ+LqmKG8IyfTTLaGd2qcIuJP4xUc=
 github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
 github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
 github.com/jboursiquot/go-proverbs v0.0.2 h1:LlJpbPfW6+HThOwZR+VsJwpRQL6xHOLsWjXJSZV2N40=
