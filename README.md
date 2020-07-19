@@ -5,5 +5,5 @@
 ```go
 go run main.go
 go mod init
-go mod tidy 
+go mod tidy // important command to rectify project dependencies
 ```
